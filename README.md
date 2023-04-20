@@ -10,7 +10,9 @@ TODO
 
 ## Resources
 
-- [ ] 📖 [Life in Differential Dataflow](https://materialize.com/life-in-differential-dataflow/) (2021) by _Ruchir Khaitan_ (introduction with examples)
+- [ ] 📖 [Materialize Tech Blog](https://materialize.com/blog/?search=Technical+Article)
+  - [ ] 📖 [Building Differential Dataflow from Scratch](https://materialize.com/blog/differential-from-scratch/) (2023) by _Ruchir Khaitan_
+  - [ ] 📖 [Life in Differential Dataflow](https://materialize.com/life-in-differential-dataflow/) (2021) by _Ruchir Khaitan_ (introduction with examples)
 - [ ] 📕 [Timely Dataflow book](https://timelydataflow.github.io/timely-dataflow/) (2017–) by _Frank McSherry_ (intro and internals)
 - [ ] 📕 [Differential Dataflow book](https://timelydataflow.github.io/differential-dataflow/) (2018–) by _Frank McSherry_ (basic and advanced usage)
 - [ ] 👩🏽‍💻 [Timely Lab](https://github.com/antiguru/timely-lab) by _Moritz Hoffmann_ (a hands-on introduction; [slides](https://docs.google.com/presentation/d/1HPZt-Ah4BgoRuHE3urOmS5MsV6OQqLfQHqLUea6FAVs))
